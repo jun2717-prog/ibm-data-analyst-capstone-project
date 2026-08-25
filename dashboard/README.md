@@ -20,7 +20,7 @@ The interactive dashboard for this project was built in **Google Looker Studio**
 
 ### Screenshots
 
-Add screenshots of each tab to this folder (e.g. `current-technology-usage.png`, `future-technology-trends.png`, `demographics.png`) and reference them from the main `README.md`.
+Add screenshots of each tab to this folder (e.g. `current-technology-usage.jpg`, `future-technology-trends.jpg`, `demographics.jpg`) and reference them from the main `README.md`.
 
 ### Data Sources
 
