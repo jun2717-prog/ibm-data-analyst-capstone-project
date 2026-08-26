@@ -2,6 +2,8 @@
 
 **🇺🇸 [English](#english) &nbsp;|&nbsp; 🇯🇵 [日本語](#日本語)**
 
+Power Point Report: [Data Analyst Capstone Project Report](Data_Analyst_Capstone_Project_Report.pdf)
+
 ---
 ---
 
@@ -93,6 +95,8 @@ Stack Overflow Developer Survey, provided as part of an IBM / Coursera data anal
 ---
 
 ## 日本語
+
+パワーポイントのレポートはこちら: [Data Analyst Capstone Project Report](Data_Analyst_Capstone_Project_Report.pdf)
 
 Stack Overflow Developer Survey（世界中の開発者を対象にしたアンケート調査）のデータを分析し、「今どんなプログラミング言語・データベース・Web技術が使われているか」「これから何が伸びていきそうか」を明らかにするプロジェクトです。
 
